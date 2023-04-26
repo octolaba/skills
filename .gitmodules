@@ -1,3 +1,9 @@
 [submodule "research/kepano/obsidian-skills"]
 	path = research/kepano/obsidian-skills
 	url = git@github.com:kepano/obsidian-skills.git
+[submodule "research/teable/skills"]
+	path = research/teable/skills
+	url = git@github.com:teableio/agent-skills.git
+[submodule "research/teable/docs"]
+	path = research/teable/docs
+	url = git@github.com:teableio/docs.git
