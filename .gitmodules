@@ -7,3 +7,6 @@
 [submodule "research/teable/docs"]
 	path = research/teable/docs
 	url = git@github.com:teableio/docs.git
+[submodule "research/anatoly-tech/obsidian-skills"]
+	path = research/anatoly-tech/obsidian-skills
+	url = git@github.com:anatoly-tech/obsidian-skills.git
